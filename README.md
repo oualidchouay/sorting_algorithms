@@ -163,7 +163,7 @@ Tasks
 -------------------------------------------------------
 ### 0\. Bubble sort
 
-!(https://youtu.be/lyZQPjUT5B4)
+(https://youtu.be/lyZQPjUT5B4)
 
 Write a function that sorts an array of integers in ascending order using the [Bubble sort](https://alx-intranet.hbtn.io/rltoken/awhP8BhtkGi-lwmMc2-KAw "Bubble sort") algorithm
 
